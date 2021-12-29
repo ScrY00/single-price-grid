@@ -1,12 +1,19 @@
 
 * {
-    margin: 0 auto;
-    padding: 0em;
     box-sizing: border-box;
+}
+
+html {
     font-size: 62.02%;
-    font-family: 'Karla', sans-serif;
+   font-family: 'Karla', sans-serif;
 
 }
+
+body {
+    margin: 0 auto;
+    padding: 0em;
+}
+
 
 .container {
     margin: 1% auto;
