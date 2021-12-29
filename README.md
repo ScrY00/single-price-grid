@@ -26,8 +26,9 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/UesleiAmaral/single-price-grid)
+- 
+- Live Site URL: [live site URL here](https://uesleiamaral.github.io/single-price-grid/)
 
 
 
